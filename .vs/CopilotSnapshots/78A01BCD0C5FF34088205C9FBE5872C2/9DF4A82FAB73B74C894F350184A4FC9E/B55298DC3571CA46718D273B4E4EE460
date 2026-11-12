@@ -1,0 +1,44 @@
+﻿using LogisticApp.Entities;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+
+namespace LogisticApp
+{
+    public class LogisticsDbContext : DbContext
+    {
+        public LogisticsDbContext() { }
+        public LogisticsDbContext(DbContextOptions<LogisticsDbContext> options) : base(options) { }
+
+        public DbSet<Driver> Drivers { get; set; }
+        public DbSet<Document> Documents { get; set; }
+        public DbSet<DocumentChunk> DocumentChunks { get; set; }
+        public DbSet<Shipment> Shipments { get; set; }
+        public DbSet<Vehicle> Vehicles { get; set; }
+        public DbSet<Warehouse> Warehouses { get; set; }
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<DocumentChunk>()
+                .Property(b => b.VectorEmbedding)
+                .HasColumnType("vector(1536)"); // Размерность для OpenAI text-embedding-3-smal
+
+            modelBuilder.Entity<DocumentChunk>()
+                .HasOne(c => c.Document)
+                .WithMany(d => d.Chunks)
+                .HasForeignKey(c => c.DocumentId);
+        }
+    }
+
+    public class ApplicationDbContextFactory : IDesignTimeDbContextFactory<LogisticsDbContext>
+    {
+        public LogisticsDbContext CreateDbContext(string[] args)
+        {
+            var optionsBuilder = new DbContextOptionsBuilder<LogisticsDbContext>();
+            // Configure your options here, e.g., use a hardcoded connection string or load from a config file.
+            optionsBuilder.UseSqlServer("Server=localhost;Database=master;Trusted_Connection=True;");
+
+            return new LogisticsDbContext(optionsBuilder.Options);
+        }
+    }
+}

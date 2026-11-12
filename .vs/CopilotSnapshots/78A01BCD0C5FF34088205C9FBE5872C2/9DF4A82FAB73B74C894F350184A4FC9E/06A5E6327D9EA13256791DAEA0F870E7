@@ -1,0 +1,18 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+
+namespace LogisticApp
+{
+    // Простая дизайн-тайм фабрика, возвращающая DbContext с жестко заданной строкой подключения.
+    // Это предотвращает выполнение кода Program.cs во время работы EF Tools.
+    public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<LogisticsDbContext>
+    {
+        public LogisticsDbContext CreateDbContext(string[] args)
+        {
+            var optionsBuilder = new DbContextOptionsBuilder<LogisticsDbContext>();
+            optionsBuilder.UseSqlServer("Server=localhost;Database=LogisticApp_DesignTime;Trusted_Connection=True;");
+
+            return new LogisticsDbContext(optionsBuilder.Options);
+        }
+    }
+}
