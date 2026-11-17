@@ -1,3 +1,25 @@
 <Solution>
-  <Project Path="LogisticApp/LogisticApp.csproj" />
+  <Folder Name="/Logistics.Core/">
+    <Project Path="src/Core/Logistics.Core.Domain/Logistics.Core.Domain.csproj" Id="0cbdda9f-628f-4c4e-b452-354e1bc5c97c" />
+  </Folder>
+  <Folder Name="/Modules/" />
+  <Folder Name="/Modules/FMS/">
+    <Project Path="src/Modules/FMS/Logistics.Modules.FMS.Application/Logistics.Modules.FMS.Application.csproj" Id="3af12869-09ca-40f0-8b9a-9d90e130f188" />
+    <Project Path="src/Modules/FMS/Logistics.Modules.FMS.Contracts/Logistics.Modules.FMS.Contracts.csproj" Id="8cda8e58-4e13-43c6-9195-2d393183ed86" />
+    <Project Path="src/Modules/FMS/Logistics.Modules.FMS.Domain/Logistics.Modules.FMS.Domain.csproj" Id="040b8835-9f10-4bda-b5d3-059271ffc6cb" />
+    <Project Path="src/Modules/FMS/Logistics.Modules.FMS.Infrastructure/Logistics.Modules.FMS.Infrastructure.csproj" Id="e3c424a8-b26f-42c7-a490-9ce19adb4bd6" />
+  </Folder>
+  <Folder Name="/Modules/TMS/">
+    <Project Path="src/Modules/TMS/Logistics.Modules.TMS.Application/Logistics.Modules.TMS.Application.csproj" Id="8c28cc98-033f-4e68-b67e-91e5b02b36bd" />
+    <Project Path="src/Modules/TMS/Logistics.Modules.TMS.Contracts/Logistics.Modules.TMS.Contracts.csproj" Id="e6525287-5b71-4613-9d0a-0c2abc5a4608" />
+    <Project Path="src/Modules/TMS/Logistics.Modules.TMS.Domain/Logistics.Modules.TMS.Domain.csproj" />
+    <Project Path="src/Modules/TMS/Logistics.Modules.TMS.Infrastructure/Logistics.Modules.TMS.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Modules/WMS/">
+    <Project Path="src/Modules/WMS/Logistics.Modules.WMS.Application/Logistics.Modules.WMS.Application.csproj" Id="4d2ee47a-4d64-4097-bd96-a2040a4c9c27" />
+    <Project Path="src/Modules/WMS/Logistics.Modules.WMS.Contracts/Logistics.Modules.WMS.Contracts.csproj" Id="98d855f2-efd9-4bd1-9d21-b6cd7a03a6f3" />
+    <Project Path="src/Modules/WMS/Logistics.Modules.WMS.Domain/Logistics.Modules.WMS.Domain.csproj" Id="ba4615ca-6dee-4f4b-b650-876c1ea24af4" />
+    <Project Path="src/Modules/WMS/Logistics.Modules.WMS.Infrastructure/Logistics.Modules.WMS.Infrastructure.csproj" Id="ac3454ae-1464-4165-8a33-377fb9436d32" />
+  </Folder>
+  <Project Path="src/LogisticApp/LogisticApp.csproj" />
 </Solution>

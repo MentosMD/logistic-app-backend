@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\crist\\source\\repos\\LogisticApp\\",
+  "WorkspaceRootPath": "D:\\doc-proj\\LogisticApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|c:\\users\\crist\\source\\repos\\logisticapp\\logisticapp\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\controllers\\documentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.infrastructure\\logistics.modules.tms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.infrastructure\\logistics.modules.tms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|c:\\users\\crist\\source\\repos\\logisticapp\\logisticapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.domain\\logistics.modules.tms.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.domain\\logistics.modules.tms.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|c:\\users\\crist\\source\\repos\\logisticapp\\logisticapp\\services\\documentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\services\\documentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|c:\\users\\crist\\source\\repos\\logisticapp\\logisticapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|c:\\users\\crist\\source\\repos\\logisticapp\\logisticapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.domain\\valueobjects\\ordernumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.domain\\valueobjects\\ordernumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|c:\\users\\crist\\source\\repos\\logisticapp\\logisticapp\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\services\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.domain\\orders\\stoptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824BC3CD-AD28-24C7-7031-9147D0915B13}|src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.domain\\orders\\stoptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|c:\\users\\crist\\source\\repos\\logisticapp\\logisticapp\\services\\idocumentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1532841-6AA6-7308-7363-36D0F8B9A3FC}|LogisticApp\\LogisticApp.csproj|solutionrelative:logisticapp\\services\\idocumentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.infrastructure\\persistence\\tmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.infrastructure\\persistence\\tmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|d:\\doc-proj\\logisticapp\\src\\modules\\tms\\logistics.modules.tms.infrastructure\\tmsmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1816A0AC-E98B-B465-8AD0-6231E63E4395}|src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj|solutionrelative:src\\modules\\tms\\logistics.modules.tms.infrastructure\\tmsmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,90 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Program.cs",
-              "RelativeDocumentMoniker": "LogisticApp\\Program.cs",
-              "ToolTip": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Program.cs",
-              "RelativeToolTip": "LogisticApp\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-27T09:03:26.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\appsettings.json",
-              "RelativeDocumentMoniker": "LogisticApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\appsettings.json",
-              "RelativeToolTip": "LogisticApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-04T10:37:25.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DriverService.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Services\\DriverService.cs",
-              "RelativeDocumentMoniker": "LogisticApp\\Services\\DriverService.cs",
-              "ToolTip": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Services\\DriverService.cs",
-              "RelativeToolTip": "LogisticApp\\Services\\DriverService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T10:28:11.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DocumentsService.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Services\\DocumentsService.cs",
-              "RelativeDocumentMoniker": "LogisticApp\\Services\\DocumentsService.cs",
-              "ToolTip": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Services\\DocumentsService.cs",
-              "RelativeToolTip": "LogisticApp\\Services\\DocumentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T07:43:57.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDocumentsService.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Services\\IDocumentsService.cs",
-              "RelativeDocumentMoniker": "LogisticApp\\Services\\IDocumentsService.cs",
-              "ToolTip": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Services\\IDocumentsService.cs",
-              "RelativeToolTip": "LogisticApp\\Services\\IDocumentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T07:43:46.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DocumentsController.cs",
-              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Controllers\\DocumentsController.cs",
-              "RelativeDocumentMoniker": "LogisticApp\\Controllers\\DocumentsController.cs",
-              "ToolTip": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Controllers\\DocumentsController.cs",
-              "RelativeToolTip": "LogisticApp\\Controllers\\DocumentsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T07:41:54.135Z",
+              "Title": "Logistics.Modules.TMS.Domain",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Logistics.Modules.TMS.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T21:02:23.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "LogisticApp\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\crist\\source\\repos\\LogisticApp\\LogisticApp\\Properties\\launchSettings.json",
-              "RelativeToolTip": "LogisticApp\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-11T11:53:23.654Z"
+              "Title": "OrderNumber.cs",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\ValueObjects\\OrderNumber.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\ValueObjects\\OrderNumber.cs",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\ValueObjects\\OrderNumber.cs",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\ValueObjects\\OrderNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:47:36.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StopType.cs",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\StopType.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\StopType.cs",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\StopType.cs",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\StopType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:47:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:44:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\Order.cs",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\Order.cs",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Domain\\Orders\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:39:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logistics.Modules.TMS.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Logistics.Modules.TMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T20:23:39.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TmsDbContext.cs",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\TmsDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\TmsDbContext.cs",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\TmsDbContext.cs",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\Persistence\\TmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:23:31.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TmsModuleExtensions.cs",
+              "DocumentMoniker": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\TmsModuleExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\TmsModuleExtensions.cs",
+              "ToolTip": "D:\\doc-proj\\LogisticApp\\src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\TmsModuleExtensions.cs",
+              "RelativeToolTip": "src\\Modules\\TMS\\Logistics.Modules.TMS.Infrastructure\\TmsModuleExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:23:25.528Z"
             }
           ]
         }
